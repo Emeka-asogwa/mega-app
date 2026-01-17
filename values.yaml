@@ -81,5 +81,4 @@ nodeSelector:
 tolerations: []
 
 affinity: {}
-
-namespace: new-megans-ns
+# namespace: new-megans-ns
